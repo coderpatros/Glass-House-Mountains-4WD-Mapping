@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Main map</name>
+		<Placemark>
+			<name>Ball Bearing</name>
+			<styleUrl>#line-DB4436-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.8674603,-26.952639,0.0 152.8664839,-26.9532223,0.0 152.8655612,-26.9533753,0.0 152.8647244,-26.953777,0.0 152.8639627,-26.9539683,0.0 152.8635764,-26.9540639,0.0 152.8632653,-26.9540065,0.0 152.8629005,-26.9538535,0.0 152.8627181,-26.9537196,0.0 152.8625035,-26.9536527,0.0 152.862128,-26.9536623,0.0 152.861495,-26.9537961,0.0 152.8611195,-26.9536527,0.0 152.8607655,-26.953404,0.0 152.8604329,-26.9532223,0.0 152.8600788,-26.9530693,0.0 152.8595102,-26.9528398,0.0 152.8591561,-26.9524094,0.0 152.8589308,-26.9520173,0.0 152.8588986,-26.9515392,0.0 152.8590381,-26.9508601,0.0 152.8592634,-26.9501907,0.0 152.859478,-26.9496551,0.0 152.8596282,-26.949253400000003,0.0 152.8595424,-26.9491482,0.0 152.8595424,-26.9489761,0.0 152.85963890000002,-26.9488518,0.0 152.8599072,-26.948364000000005,0.0 152.860229,-26.947933600000002,0.0 152.8606796,-26.947713700000005,0.0 152.8609264,-26.947541500000003,0.0 152.8613126,-26.9474076,0.0 152.8616452,-26.9473789,0.0 152.862525,-26.9473311,0.0 152.86344770000002,-26.947369400000003,0.0 152.8639627,-26.947455400000003,0.0 152.8644884,-26.947618,0.0 152.8647351,-26.9476754,0.0 152.8649712,-26.947685,0.0 152.8653574,-26.947465,0.0 152.86572220000002,-26.9473407,0.0 152.8661406,-26.9470824,0.0 152.8662586,-26.9469103,0.0 152.8663552,-26.9467764,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Mud Mile</name>
+			<description><![CDATA[Take great caution after a good rain period]]></description>
+			<styleUrl>#line-F8971B-4</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.84925340000004,-26.8874641,0.0 152.8495538,-26.8874545,0.0 152.8497791,-26.8873684,0.0 152.8502405,-26.8872536,0.0 152.8505516,-26.8871101,0.0 152.8507984,-26.8869665,0.0 152.8509057,-26.886689,0.0 152.8510022,-26.8863445,0.0 152.8512168,-26.8860192,0.0 152.8514636,-26.8858565,0.0 152.8518498,-26.8858948,0.0 152.8521502,-26.8859713,0.0 152.8524828,-26.8860575,0.0 152.8528583,-26.8861436,0.0 152.8530836,-26.8862488,0.0 152.8532445,-26.8865072,0.0 152.8532338,-26.8867273,0.0 152.85303000000002,-26.8868613,0.0 152.8527725,-26.887062200000003,0.0 152.8526437,-26.8872632,0.0 152.8526866,-26.887445,0.0 152.85291190000004,-26.8876268,0.0 152.853266,-26.887799,0.0 152.85380240000003,-26.8878947,0.0 152.8541887,-26.8878277,0.0 152.8544891,-26.8877033,0.0 152.8548324,-26.8875789,0.0 152.8551221,-26.8875407,0.0 152.8553689,-26.887732,0.0 152.8556263,-26.8879138,0.0 152.8558838,-26.8879617,0.0 152.8562486,-26.887933,0.0 152.8566349,-26.8879138,0.0 152.8573537,-26.8879138,0.0 152.8581798,-26.8878373,0.0 152.8594029,-26.887818200000005,0.0 152.8612268,-26.8881531,0.0 152.8629005,-26.8884593,0.0 152.8638339,-26.8885645,0.0 152.8651321,-26.888794200000003,0.0 152.8665161,-26.8889473,0.0 152.8667951,-26.888966400000005,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>HoChiMin</name>
+			<styleUrl>#line-DB4436-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.861613,-26.935959,0.0 152.8617525,-26.936332,0.0 152.8619027,-26.9365712,0.0 152.8619027,-26.9369251,0.0 152.8619027,-26.937145,0.0 152.8621066,-26.9371737,0.0 152.8625035,-26.9371833,0.0 152.8629434,-26.9371737,0.0 152.8631687,-26.937059,0.0 152.8636193,-26.9370685,0.0 152.8637373,-26.9372885,0.0 152.8642523,-26.9373555,0.0 152.8645098,-26.9373363,0.0 152.8648961,-26.9373746,0.0 152.8653145,-26.9374416,0.0 152.8656149,-26.9375468,0.0 152.866087,-26.937585,0.0 152.8663659,-26.9375659,0.0 152.86689160000003,-26.9377763,0.0 152.8672135,-26.9379102,0.0 152.8674066,-26.9379772,0.0 152.8676319,-26.9377955,0.0 152.8677499,-26.9375181,0.0 152.8681147,-26.9376233,0.0 152.86827560000003,-26.9377859,0.0 152.8685868,-26.9379963,0.0 152.869091,-26.938178,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-009D57-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.869091,-26.938178,0.0 152.869193,-26.9382211,0.0 152.8692627,-26.9381589,0.0 152.8692949,-26.938068,0.0 152.8692949,-26.937982,0.0 152.8693056,-26.9378863,0.0 152.8693539,-26.9377524,0.0 152.8694022,-26.9376042,0.0 152.86939680000003,-26.937475,0.0 152.8694934,-26.9373172,0.0 152.8694558,-26.9372455,0.0 152.8692573,-26.9370924,0.0 152.8690857,-26.9369729,0.0 152.8688389,-26.9368629,0.0 152.8688121,-26.9367912,0.0 152.8687906,-26.9366525,0.0 152.8687799,-26.9365999,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Mud Mile</name>
+			<description><![CDATA[Can be impassable after heavy rain]]></description>
+			<styleUrl>#icon-503-F8971B</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.85012245178223,-26.88739712199826,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Glasshouse Lookout</name>
+			<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.89486169815063,-26.93145384995778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Small hill climb area</name>
+			<styleUrl>#icon-503-62AF44-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.86644637584686,-26.960755678252305,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Motorbike play area</name>
+			<styleUrl>#icon-503-62AF44-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.86682724952698,-26.957951353155845,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Canyon </name>
+			<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.85218238830566,-26.96315830534686,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Power Lines start</name>
+			<styleUrl>#icon-503-4186F0-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.85239696502688,-26.970483013307202,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fire tower</name>
+			<styleUrl>#icon-503-F4EB37-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.8502995,-26.901639700000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big Red (top)</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.8510880470276,-26.938158914203203,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Widow Maker</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.8507661819458,-26.901252208964777,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Little Red</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.85095930099487,-26.940511809430838,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Twin view rd entry</name>
+			<styleUrl>#icon-503-F4EB37-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.8665590286255,-26.96350255816551,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Small rocky climb</name>
+			<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.8501815,-26.9050936,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bog hole</name>
+			<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.851881980896,-26.95818564726878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rocky climb (short)</name>
+			<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.8518283367157,-26.95692332220679,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Logan Pineo</name>
+			<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.09877395629883,-27.80491712640231,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Duck Creek Rd</name>
+			<description><![CDATA[This is a easy track that is well suited to soft roaders]]></description>
+			<styleUrl>#icon-503-FFDD5E</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.04186820983887,-28.146135460931763,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>City View Park</name>
+			<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.88978159427643,-27.992989851480253,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Landcruiser Mountain Park</name>
+			<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.32153415679932,-26.575746965041393,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Canyon Track </name>
+			<styleUrl>#line-F8971B-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.8672456741333,-26.957516234224762,0.0 152.86396265029907,-26.957152836906502,0.0 152.8622031211853,-26.95837690740788,0.0 152.8611946105957,-26.95818564726878,0.0 152.86020755767822,-26.956999827158644,0.0 152.85945653915405,-26.9564834177254,0.0 152.85846948623657,-26.956464291404636,0.0 152.85578727722168,-26.958396033403922,0.0 152.855122089386,-26.958950685876843,0.0 152.855122089386,-26.95929495155543,0.0 152.85507917404175,-26.959715719289306,0.0 152.8552508354187,-26.96005998262982,0.0 152.85574436187744,-26.96032774227836,0.0 152.8559374809265,-26.960652878138767,0.0 152.8559160232544,-26.96143702547034,0.0 152.8564739227295,-26.962469796552853,0.0 152.85619497299194,-26.9633113067295,0.0 152.8549289703369,-26.96463093502742,0.0 152.8550148010254,-26.96539592985924,0.0 152.85550832748413,-26.96602704668351,0.0 152.85518646240234,-26.967461389948472,0.0 152.85462856292725,-26.96788212717397,0.0 152.85362005233765,-26.967767380813832,0.0 152.8524398803711,-26.967174522757034,0.0 152.85194635391235,-26.966792032031698,0.0 152.85194635391235,-26.966160919494587,0.0 152.85228967666626,-26.965453304262127,0.0 152.8524613380432,-26.964822184222534,0.0 152.85241842269897,-26.9640954355533,0.0 152.85235404968262,-26.96365555908051,0.0 152.85226821899414,-26.963330431887712,0.0 152.85216093063354,-26.962852301958026,0.0 152.85213947296143,-26.962221167342893,0.0 152.85213947296143,-26.96201078835195,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Canyon Chicken Track</name>
+			<styleUrl>#line-009D57-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.85495042800903,-26.965061245259722,0.0 152.85452127456665,-26.964497060397598,0.0 152.8538453578949,-26.964200623150948,0.0 152.85270810127258,-26.962909677656775,0.0 152.85236477851868,-26.962202041996317,0.0 152.85213947296143,-26.96201078835195,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Widow Maker area</name>
+			<styleUrl>#line-009D57-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.85043895244598,-26.90124742504298,0.0 152.8508895635605,-26.900783383664837,0.0 152.85129189491272,-26.900424587477712,0.0 152.85183370113376,-26.900113629860137,0.0 152.85174250602722,-26.900367179981984,0.0 152.85173177719116,-26.90052026657239,0.0 152.85171568393707,-26.900682920847338,0.0 152.85169422626495,-26.90075468001181,0.0 152.85158693790436,-26.90084557488801,0.0 152.85151183605197,-26.900902982140565,0.0 152.85142064094543,-26.90096995723164,0.0 152.85131335258484,-26.901032148352076,0.0 152.85124897956848,-26.901079987652185,0.0 152.85115242004395,-26.90114696263829,0.0 152.85116314888,-26.901242641120966,0.0 152.85122215747833,-26.901343103440528,0.0 152.8512865304947,-26.901453133497526,0.0 152.8515064716339,-26.901410078270597,0.0 152.85167813301086,-26.90136223911032,0.0 152.85205900669098,-26.90114696263829,0.0 152.85232186317444,-26.901079987652185,0.0 152.8526222705841,-26.900984309031692,0.0 152.85285830497742,-26.900816871250793,0.0 152.8530728816986,-26.900615945586026,0.0 152.85327672958374,-26.90058245794048,0.0 152.85351812839508,-26.900615945586026,0.0 152.85387217998505,-26.90066856900898,0.0 152.85414576530457,-26.90074511212585,0.0 152.85437643527985,-26.900792951547544,0.0 152.85462319850922,-26.90088863033016,0.0 152.85484850406647,-26.900984309031692,0.0 152.85495579242706,-26.90104650014423,0.0 152.8550684452057,-26.901108691222518,0.0 152.85477340221405,-26.9011995858138,0.0 152.85404920578006,-26.901290480331916,0.0 152.8529977798462,-26.90146748523618,0.0 152.85245597362518,-26.901649273767987,0.0 152.85174250602722,-26.90174495182509,0.0 152.85114169120789,-26.90173060012169,0.0 152.85065352916718,-26.901701896709433,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Widow Maker</name>
+			<description><![CDATA[This is quite a hard track. big lift and lockers needed]]></description>
+			<styleUrl>#line-DB4436-3</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.85116314888,-26.901266560728967,0.0 152.85093784332275,-26.901307224050957,0.0 152.85081714391708,-26.901280912491334,0.0 152.8506749868393,-26.90122589739236,0.0 152.8505516052246,-26.90115653049021,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-F8971B-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.8512355685234,-26.901390942608923,0.0 152.85106390714645,-26.90146748523618,0.0 152.85093516111374,-26.90157751517197,0.0 152.8508386015892,-26.901713856465424,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-F8971B-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.8512865304947,-26.901453133497526,0.0 152.85114705562592,-26.901548811720804,0.0 152.8510746359825,-26.901630138146846,0.0 152.85102367401123,-26.901725816220157,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-F8971B-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.8513965010643,-26.901438781757026,0.0 152.85131603479385,-26.90157512321798,0.0 152.8512543439865,-26.901666017433833,0.0 152.8512141108513,-26.90173538402303,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>The Reds chicken track</name>
+			<styleUrl>#line-009D57-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.84781575202942,-26.94128653247923,0.0 152.8485882282257,-26.94099003416366,0.0 152.84910321235657,-26.94087526041279,0.0 152.8494894504547,-26.940798744513963,0.0 152.84989714622498,-26.94080830900415,0.0 152.85037994384766,-26.94087526041279,0.0 152.85046577453613,-26.941066549932643,0.0 152.8504979610443,-26.94134391915992,0.0 152.85051941871643,-26.94163085212515,0.0 152.85059452056885,-26.941956041936216,0.0 152.85077691078186,-26.942204715864683,0.0 152.85099148750305,-26.942376874416894,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-009D57-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.85099148750305,-26.942376874416894,0.0 152.85097002983093,-26.94124827467587,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Big Red Track</name>
+			<styleUrl>#line-DB4436-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.85097002983093,-26.94124827467587,0.0 152.85102367401123,-26.94105698546437,0.0 152.8510558605194,-26.9408848248965,0.0 152.85102367401123,-26.940741357555776,0.0 152.85099148750305,-26.940578761015566,0.0 152.85095930099487,-26.940511809430838,0.0 152.8509271144867,-26.940310954438146,0.0 152.85095930099487,-26.940138792731005,0.0 152.85089492797852,-26.939976195321766,0.0 152.8509485721588,-26.93979446852805,0.0 152.85097002983093,-26.93962230603222,0.0 152.85095930099487,-26.93950753088894,0.0 152.85090565681458,-26.939306674107048,0.0 152.85088419914246,-26.93914407549772,0.0 152.8510344028473,-26.93899104129825,0.0 152.85109877586365,-26.93884757154761,0.0 152.85112023353577,-26.9386658429347,0.0 152.85118460655212,-26.93851280808612,0.0 152.85118460655212,-26.938407596507236,0.0 152.85119533538818,-26.938264126014158,0.0 152.8510880470276,-26.938158914203203,0.0 152.85099148750305,-26.938130220055914,0.0 152.8508734703064,-26.938082396460864,0.0 152.85080909729004,-26.938015443393688,0.0 152.85074472427368,-26.9379102313507,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Big red chicken track</name>
+			<styleUrl>#line-009D57-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.85089492797852,-26.93989011424546,0.0 152.8506374359131,-26.93977533937482,0.0 152.85042285919192,-26.939689258145176,0.0 152.85024046897888,-26.93961274144141,0.0 152.85011172294617,-26.939517095488675,0.0 152.85012245178223,-26.939364061795526,0.0 152.8502082824707,-26.93922059251956,0.0 152.85024046897888,-26.939105816967327,0.0 152.85016536712646,-26.938962347362736,0.0 152.85005807876587,-26.938809312916607,0.0 152.84989714622498,-26.938637148916428,0.0 152.84974694252014,-26.93851280808612,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Camp Rd</name>
+			<styleUrl>#icon-503-FF8277-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.3143994808197,-26.557706443073446,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Reds Bypass</name>
+			<styleUrl>#line-F8971B-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.85109877586365,-26.938914524120637,0.0 152.8511255979538,-26.939005388263286,0.0 152.85115242004395,-26.9390484291474,0.0 152.8512328863144,-26.939086687697273,0.0 152.8513240814209,-26.93910103465012,0.0 152.85147964954376,-26.939124946234152,0.0 152.85157084465027,-26.939124946234152,0.0 152.8516298532486,-26.939105816967327,0.0 152.85174250602722,-26.939105816967327,0.0 152.8518658876419,-26.93914407549772,0.0 152.85199463367465,-26.93924450407823,0.0 152.8521180152893,-26.939306674107048,0.0 152.85220384597778,-26.939340150262215,0.0 152.8523486852646,-26.939483619386053,0.0 152.8523862361908,-26.939550571581368,0.0 152.85246670246124,-26.939646217505697,0.0 152.85255253314972,-26.93973708105865,0.0 152.85265445709229,-26.939780121663443,0.0 152.85277247428894,-26.939832726824758,0.0 152.85288512706757,-26.939813597678018,0.0 152.8529816865921,-26.939784903951846,0.0 152.85304605960846,-26.939722734186734,0.0 152.85312116146088,-26.93967969356004,0.0 152.85323917865753,-26.93962230603222,0.0 152.8533571958542,-26.939598394553666,0.0 152.85346448421478,-26.93956013617744,0.0 152.85360395908356,-26.939526660087598,0.0 152.85369515419006,-26.939488401687036,0.0 152.85381853580475,-26.939450143273483,0.0 152.8539526462555,-26.939402320238287,0.0 152.85402238368988,-26.939335367954943,0.0 152.85407066345215,-26.93928276256156,0.0 152.85407602787018,-26.93919189864246,0.0 152.8541135787964,-26.93906277610512,0.0 152.85414576530457,-26.93894800039223,0.0 152.85418331623077,-26.93884757154761,0.0 152.8541886806488,-26.938732795615653,0.0 152.85425305366516,-26.938670625270383,0.0 152.85424768924713,-26.938594107875296,0.0 152.85425305366516,-26.93851759042829,0.0 152.85430669784546,-26.938417161200285,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-DB4436-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.85065352916718,-26.901701896709433,0.0 152.85050332546234,-26.90169232890372,0.0 152.8504040837288,-26.901689936952167,0.0 152.85028874874115,-26.90170668061198,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Tower Hill</name>
+			<description><![CDATA[This is a great hill climb for the more adventious 4wd]]></description>
+			<styleUrl>#line-DB4436-4</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.8500473499298,-26.900874278517943,0.0 152.85010099411014,-26.90091494198116,0.0 152.8501331806183,-26.900936469691064,0.0 152.85016536712646,-26.90096038936391,0.0 152.8501921892166,-26.900989092964647,0.0 152.85023778676987,-26.901044108179008,0.0 152.85023778676987,-26.901087163545462,0.0 152.85024046897888,-26.901120651041346,0.0 152.8502458333969,-26.901170882266563,0.0 152.8502807021141,-26.901197193851804,0.0 152.8503182530403,-26.90123307327635,0.0 152.85035580396652,-26.901271344649963,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-62AF44-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.3136270046234,-26.556881117221337,0.0 152.31366991996765,-26.556943496708445,0.0 152.3136967420578,-26.55698188406825,0.0 152.31370210647583,-26.557029868249938,0.0 152.31370747089386,-26.557065856373026,0.0 152.313731610775,-26.557094646863348,0.0 152.31377989053726,-26.557128235759603,0.0 152.3138228058815,-26.55716182464601,0.0 152.3138388991356,-26.557202611137697,0.0 152.31385499238968,-26.557243397614858,0.0 152.31388181447983,-26.55726738965349,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Camp Rd</name>
+			<styleUrl>#line-DB4436-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.31388181447983,-26.55726738965349,0.0 152.31392472982407,-26.557298579296184,0.0 152.3139488697052,-26.55732976893039,0.0 152.31402397155762,-26.55739454737433,0.0 152.3140749335289,-26.55742333778211,0.0 152.31410712003708,-26.55746172498123,0.0 152.31415003538132,-26.557504910564884,0.0 152.31419295072556,-26.557521704954127,0.0 152.3142385482788,-26.557550495329963,0.0 152.31426268815994,-26.557593680880156,0.0 152.31433510780334,-26.557656059979518,0.0 152.31434851884842,-26.55768964871126,0.0 152.31439411640167,-26.557732834209045,0.0 152.31442898511887,-26.55775442695182,0.0 152.31447726488113,-26.557800011617694,0.0 152.3145094513893,-26.557850394648337,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Telecom Hill</name>
+			<styleUrl>#line-DB4436-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.30970561504364,-26.549140999016217,0.0 152.30993628501892,-26.549136200268773,0.0 152.31005966663363,-26.549140999016217,0.0 152.3101830482483,-26.549117005276994,0.0 152.31041371822357,-26.549131401521127,0.0 152.31056928634644,-26.549193785224837,0.0 152.31075704097748,-26.54923217517948,0.0 152.31102526187897,-26.549212980203762,0.0 152.31130957603457,-26.54925616889459,0.0 152.31161534786224,-26.549289760087344,0.0 152.31175482273102,-26.54926576637924,0.0 152.3118942975998,-26.54932335127024,0.0 152.3119854927063,-26.549371338657316,0.0 152.31211423873904,-26.549400131079917,0.0 152.31225907802582,-26.549462514637423,0.0 152.31240928173065,-26.54949610576971,0.0 152.31258630752563,-26.549558489275004,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-62AF44-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.31258630752563,-26.549558489275004,0.0 152.31270968914032,-26.549606476563675,0.0 152.31282234191895,-26.549726444697484,0.0 152.31292963027954,-26.54986080885836,0.0 152.31296718120575,-26.549961581875685,0.0 152.31302082538605,-26.55012953670774,0.0 152.31312811374664,-26.55025910169584,0.0 152.3132300376892,-26.550374270451222,0.0 152.31333196163177,-26.550494237781763,0.0 152.3133909702301,-26.550647795781682,0.0 152.31343388557434,-26.55075816546711,0.0 152.31353044509888,-26.550882931070518,0.0 152.31372356414795,-26.550993300529615,0.0 152.31382548809052,-26.55111806587717,0.0 152.3139488697052,-26.551276421699743,0.0 152.31407225131989,-26.551468367858124,0.0 152.31422781944275,-26.551669910978593,0.0 152.31429755687714,-26.55186665511162,0.0 152.3143619298935,-26.552001016764564,0.0 152.31494665145874,-26.552965536865376,0.0 152.3151022195816,-26.55339261033812,0.0 152.31523096561432,-26.553738106814933,0.0 152.31532752513885,-26.554294737837566,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Hectic Hill</name>
+			<styleUrl>#line-DB4436-4-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>152.29594588279724,-26.542883261754515,0.0 152.29580104351044,-26.542806477581816,0.0 152.2956347465515,-26.542835271652606,0.0 152.29543626308444,-26.542806477581816,0.0 152.29520559310913,-26.542811276594126,0.0 152.29509830474854,-26.542878462745218,0.0 152.29502856731415,-26.542902457789655,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='icon-503-4186F0-nodesc'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-62AF44-nodesc'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-F4EB37-nodesc'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-F8971B-nodesc'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-FF8277-nodesc'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-FFDD5E-nodesc'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-009D57-4-nodesc-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>4</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-009D57-4-nodesc-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>6.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-009D57-4-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009D57-4-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009D57-4-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-62AF44-4-nodesc-normal'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>4</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-62AF44-4-nodesc-highlight'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>6.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-62AF44-4-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-62AF44-4-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-62AF44-4-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-3-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-DB4436-3-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>5.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-DB4436-3'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-3-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-3-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-4-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-DB4436-4-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>6.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-DB4436-4'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-4-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-4-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-4-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>4</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-DB4436-4-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>6.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-DB4436-4-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-4-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-4-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-F8971B-4-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-F8971B-4-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>6.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-F8971B-4'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-F8971B-4-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-F8971B-4-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-F8971B-4-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>4</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-F8971B-4-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>6.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-F8971B-4-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-F8971B-4-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-F8971B-4-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
